@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pregunta_uno_nivel_1">¿Cómo saludas cotidianamente en tu idioma?</string>
+     <string name="respuesta_1_nivel_1">Panolti</string>
+    <string name="respuesta_2_nivel_1">Hola</string>
+    <string name="respuesta_3_nivel_1">Hello</string>
+</resources>

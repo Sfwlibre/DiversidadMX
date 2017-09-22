@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RadioButton
+        android:id="@+id/nivel_1"
+        android:layout_width="match_parent"
+        android:layout_marginTop="150dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/nivel_juego_cero"
+        android:onClick="sendMessage"
+        android:layout_marginLeft="100dp"/>
+
+    <RadioButton
+        android:id="@+id/nivel_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nivel_juego_uno"
+        android:enabled="false"
+        android:onClick="sendMessage"
+        android:layout_marginLeft="100dp"/>
+    <RadioButton
+        android:id="@+id/nivel_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nivel_juego_dos"
+        android:enabled="false"
+        android:onClick="sendMessage"
+        android:layout_marginLeft="100dp"/>
+
+
+</RadioGroup>

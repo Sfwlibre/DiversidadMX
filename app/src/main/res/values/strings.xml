@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Diversidad MX</string>
+    <string name="nivel_juego_cero">Lectura y órden de palabras</string>
+    <string name="nivel_juego_uno">Escritura</string>
+    <string name="nivel_juego_dos">Pronunciación</string>
+    <string name="button_send">Send</string>
+    <string name="desbloquear_Nivel_1">El nivel se desbloqueará al terminar el nivel 1</string>
+    <string name="desbloquear_Nivel_2">El nivel se desbloqueará al terminar el nivel 2</string>
+</resources>
