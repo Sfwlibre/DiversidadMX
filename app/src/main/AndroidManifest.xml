@@ -16,7 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".DisplayMessageActivity" />
-        <activity android:name=".segundoFlujo"></activity>
+        <activity android:name=".segundoFlujo" />
+        <activity android:name=".juego_dos" />
+        <activity android:name=".juego_3"></activity>
     </application>
 
 </manifest>

@@ -6,4 +6,7 @@
     <string name="button_send">Send</string>
     <string name="desbloquear_Nivel_1">El nivel se desbloqueará al terminar el nivel 1</string>
     <string name="desbloquear_Nivel_2">El nivel se desbloqueará al terminar el nivel 2</string>
+    <string name="mensaje">Felicidades lo estás haciendo bien! sigue así</string>
+    <string name="say_your_language">Ahora….  Tu idioma es:</string>
+    <string name="practice_another">¡Practiquemos otro  lenguaje!</string>
 </resources>

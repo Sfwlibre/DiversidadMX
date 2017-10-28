@@ -4,12 +4,14 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+
     <TextView
         android:id="@+id/pregunta_uno_Nivel1"
         android:layout_width="match_parent"
         android:layout_marginTop="40dp"
         android:layout_height="wrap_content"
-        android:hint="@string/pregunta_uno_nivel_1"
+        android:hint="@string/pregunta_uno_nivel_2"
+        android:onClick="sendMessage"
         android:layout_marginLeft="20dp"/>
     <RadioGroup
         android:layout_width="match_parent"
@@ -20,24 +22,25 @@
             android:layout_width="match_parent"
             android:layout_marginTop="20dp"
             android:layout_height="wrap_content"
-            android:hint="@string/respuesta_1_nivel_1"
-            android:onClick="sendMessage"
+            android:hint="@string/respuesta_1_nivel_2"
+            android:onClick="reciveRequest"
             android:layout_marginLeft="50dp"/>
 
         <RadioButton
             android:id="@+id/resp_dos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/respuesta_2_nivel_1"
-            android:onClick="sendMessage"
+            android:hint="@string/respuesta_2_nivel_2"
+            android:onClick="reciveRequest"
             android:layout_marginLeft="50dp"/>
         <RadioButton
             android:id="@+id/resp_tres"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/respuesta_3_nivel_1"
-            android:onClick="sendMessage"
+            android:hint="@string/respuesta_3_nivel_2"
+            android:onClick="reciveRequest"
             android:layout_marginLeft="50dp"/>
     </RadioGroup>
+
 
 </LinearLayout>

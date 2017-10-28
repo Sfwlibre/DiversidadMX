@@ -4,4 +4,8 @@
      <string name="respuesta_1_nivel_1">Panolti</string>
     <string name="respuesta_2_nivel_1">Hola</string>
     <string name="respuesta_3_nivel_1">Hello</string>
+    <string name="pregunta_uno_nivel_2">Cómo te despides en tu Idioma?</string>
+    <string name="respuesta_1_nivel_2">Bye</string>
+    <string name="respuesta_2_nivel_2">Timoitase</string>
+    <string name="respuesta_3_nivel_2">Adiós</string>
 </resources>
